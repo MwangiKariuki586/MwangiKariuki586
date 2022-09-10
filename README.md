@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on frontend development
-- 📫 How to reach me mwangikariuki@gmail.com
+- 📫 How to reach me mwangikariuki586@gmail.com
 
 <!---
 MwangiKariuki586/MwangiKariuki586 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
